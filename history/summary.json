@@ -5,18 +5,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/shellsync.wtf.ico",
     "slug": "shell-sync-api",
     "status": "up",
-    "uptime": "28.51%",
-    "uptimeDay": "28.51%",
-    "uptimeWeek": "28.51%",
-    "uptimeMonth": "28.51%",
-    "uptimeYear": "28.51%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "uptime": "64.40%",
+    "uptimeDay": "64.40%",
+    "uptimeWeek": "64.40%",
+    "uptimeMonth": "64.40%",
+    "uptimeYear": "64.40%",
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2023-12-18": 33
+    }
+  },
+  {
+    "name": "Unit 259 Website",
+    "url": "https://unit269.com",
+    "icon": "https://icons.duckduckgo.com/ip3/unit269.com.ico",
+    "slug": "unit-259-website",
+    "status": "down",
+    "uptime": "19.91%",
+    "uptimeDay": "19.91%",
+    "uptimeWeek": "19.91%",
+    "uptimeMonth": "19.91%",
+    "uptimeYear": "19.91%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-18": 0
     }
   }
 ]
