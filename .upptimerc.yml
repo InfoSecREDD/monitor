@@ -17,8 +17,8 @@ status-website:
   cname: monitor.unit259.com
   #baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Unit259 Web Services Monitor
-  introTitle: "Web Services Monitor"
+  name: Services Monitor
+  introTitle: "Unit259 Services -"
   introMessage:
   navbar:
     - title: Status
