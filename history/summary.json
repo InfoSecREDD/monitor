@@ -1,8 +1,8 @@
 [
   {
     "name": "ShellSync API",
-    "url": "https://www.shellsync.wtf/api1/check_connection",
-    "icon": "https://icons.duckduckgo.com/ip3/www.shellsync.wtf.ico",
+    "url": "https://shellsync.wtf/api1/check_connection",
+    "icon": "https://icons.duckduckgo.com/ip3/shellsync.wtf.ico",
     "slug": "shell-sync-api",
     "status": "down",
     "uptime": "0.00%",
@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 40,
-    "timeDay": 40,
-    "timeWeek": 40,
-    "timeMonth": 40,
-    "timeYear": 40,
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 3
     }
   }
 ]
