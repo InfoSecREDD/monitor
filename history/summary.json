@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 226,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shellsync.wtf.ico",
     "slug": "shell-sync-website",
     "status": "up",
-    "uptime": "84.90%",
-    "uptimeDay": "84.90%",
-    "uptimeWeek": "84.90%",
-    "uptimeMonth": "84.90%",
-    "uptimeYear": "84.90%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
-    "dailyMinutesDown": {
-      "2023-12-18": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 280,
+    "timeDay": 280,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ShellSync API Backend",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shellsync.wtf.ico",
     "slug": "shell-sync-api-backend",
     "status": "up",
-    "uptime": "94.11%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "94.11%",
-    "time": 148,
-    "timeDay": 148,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
-    "dailyMinutesDown": {
-      "2023-12-18": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
+    "dailyMinutesDown": {}
   }
 ]
