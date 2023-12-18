@@ -3,14 +3,14 @@ owner: infosecredd # Your GitHub organization or username, where this repository
 repo: monitor # The name of this repository
 
 sites:
-  - name: ShellSync API
+  - name: Unit 259 Website
+    url: https://unit259.com
+  - name: ShellSync API Backend
     url: https://shellsync.wtf/api1/check_connection
     method: POST
     expectedStatusCodes:
       - 200
       - 411
-  - name: Unit 259
-    url: https://unit259.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -18,11 +18,11 @@ status-website:
   baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ShellSync API Monitor
-  introTitle: "API MONITOR"
+  introTitle: "Web Services Monitor"
   introMessage:
   navbar:
     - title: Status
-      href: /
+      href: /monitor
   i18n:
     footer: This page is [open source]($REPO)
 
