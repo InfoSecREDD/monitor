@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ShellSync API Monitor
   introTitle: "API MONITOR"
-  introMessage: 
+  introMessage: "Services:"
   navbar:
     - title: Status
       href: /
