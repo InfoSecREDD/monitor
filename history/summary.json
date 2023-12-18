@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shellsync.wtf.ico",
     "slug": "shell-sync-website",
     "status": "down",
-    "uptime": "5.40%",
-    "uptimeDay": "5.40%",
-    "uptimeWeek": "5.40%",
-    "uptimeMonth": "5.40%",
-    "uptimeYear": "5.40%",
-    "time": 363,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "uptime": "0.76%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
+    "uptimeYear": "0.76%",
+    "time": 283,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 1
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 211,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   }
 ]
