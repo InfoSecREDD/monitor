@@ -24,7 +24,7 @@ status-website:
     - title: Status
       href: /
 i18n:
-  footer: This page is automatically generated, Thanks to Uuptime.
+  footer: This page is automatically generated.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
