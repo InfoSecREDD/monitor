@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shellsync.wtf.ico",
     "slug": "shell-sync-website",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 266,
-    "timeDay": 266,
-    "timeWeek": 266,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "uptime": "84.90%",
+    "uptimeDay": "84.90%",
+    "uptimeWeek": "84.90%",
+    "uptimeMonth": "84.90%",
+    "uptimeYear": "84.90%",
+    "time": 295,
+    "timeDay": 295,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 5
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shellsync.wtf.ico",
     "slug": "shell-sync-api-backend",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "uptime": "94.11%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "94.11%",
+    "time": 148,
+    "timeDay": 148,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 5
     }
   }
 ]
