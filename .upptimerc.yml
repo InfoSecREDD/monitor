@@ -19,7 +19,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitor.unit259.com
   #baseUrl: /monitor
-  theme: night
+  #theme: night
+  themeUrl: https://raw.githubusercontent.com/Unit-259/monitor-css/main/red.css
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Unit259 Server Monitor
   introTitle: "Current Services"
