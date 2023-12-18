@@ -18,13 +18,13 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitor.unit259.com
-  #baseUrl: /monitor 
+  #baseUrl: /monitor
+  theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Unit259 Server Monitor
   introTitle: "Current Services"
   introMessage:
 i18n:
   footer: Page is automatically generated. (Thanks to Upptime)
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
