@@ -23,9 +23,6 @@ status-website:
   name: Unit259 Server Monitor
   introTitle: "Current Services"
   introMessage:
-  navbar:
-    - title: Status
-      href: /
 i18n:
   footer: This page is automatically generated. (Thanks to Upptime)
 
