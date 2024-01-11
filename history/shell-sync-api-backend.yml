@@ -1,7 +1,7 @@
 url: https://shellsync.wtf/api1/check_connection
-status: up
-code: 411
-responseTime: 27
-lastUpdated: 2024-01-11T06:49:10.803Z
+status: down
+code: 521
+responseTime: 73
+lastUpdated: 2024-01-11T08:15:34.832Z
 startTime: 2023-12-18T02:16:49.401Z
 generator: Upptime <https://github.com/upptime/upptime>
